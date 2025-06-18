@@ -1,4 +1,4 @@
-# 🧀 카페 급여 및 근무 일정 관리 서비스, 우아한 치즈케잌
+# 🧀 카페 급여 및 근무 일정 관리 서비스 | 우아한 치즈케잌
 
 <img src="https://github.com/user-attachments/assets/275423fc-e1e2-4fba-973b-3f00f1a552cf" >
 
